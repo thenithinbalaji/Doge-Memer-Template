@@ -1,5 +1,5 @@
 # What is Doge Memer Bot? 
-Doge Memer is a discord bot developed by The Nithin Balaji aka JohnWickedBoy.<br> 
+Doge Memer is a discord bot developed by The Nithin Balaji.<br> 
 Visit https://discordbotlist.com/bots/doge-memer to add the bot to your Discord Server.
 
 # Is this the fully working code of Doge Memer? 
