@@ -1,6 +1,9 @@
-# What is Doge Memer Bot? 
-Doge Memer is a discord bot developed by The Nithin Balaji.<br> 
-Visit https://discordbotlist.com/bots/doge-memer to add the bot to your Discord Server.
+# Doge Memer
+## What is this
+This contains the boilerplate code for making a Python [Discord](https://discord.com/) Bot similar to [Doge Memer](https://discordbotlist.com/bots/doge-memer).          
+Doge Memer is a discord bot developed by TheNithinBalaji.       
 
-# Is this the fully working code of Doge Memer? 
-Nope. This ofc is not the fully working code of Doge Memer. This is just a template for people with an interest to make discord bots. 
+## Links       
+Visit [Free Code Camp](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) for a more detailed tutorial.  
+[Invite Doge Memer To Your Server](https://discordbotlist.com/bots/doge-memer)           
+[Join Support Server on Discord](https://discord.gg/Xqgzyngnda)  
